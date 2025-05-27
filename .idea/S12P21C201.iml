@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/build" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/thewater/lib_plugins/ar_flutter_plugin-0.7.3/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
