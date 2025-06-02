@@ -18,7 +18,7 @@ package="com.application.thewater">
     android:usesCleartextTraffic="true">
     <meta-data
         android:name="com.kakao.sdk.AppKey"
-        android:value="9a76af4fb25e9829901c02a8d7a715eb" />
+        android:value="" />
     
     <activity
         android:name=".MainActivity"
